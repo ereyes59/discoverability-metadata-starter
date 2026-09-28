@@ -1,0 +1,5 @@
+For the Garden Skills Day page, I changed the title to "Garden Skills Day | Free Workshop" and wrote a meta description based on the visible workshop topics. I changed the navigation links to "Garden Skills Day Home", "View Our Schedule", and "Contact the organizer" each with an href directing to the page or its matching section. I renamed the workshop image and replaced the generic alt text with a description of the image. 
+
+I also inspected the page source and found the title, meta description, and the canonical link in the <head>. The nav links and image filename and alt text all appear in the <body> and all changes were checked through the page source to ensure they were. The canonical should lead to the final public version of this page, so I will confirm that URL when publishing the site.
+
+These changes do not guarantee a first page search ranking or specific amount of traffic. They only serve to make the page easier to identify and understand, but the ranking claims need evidence and appropriate limits.
